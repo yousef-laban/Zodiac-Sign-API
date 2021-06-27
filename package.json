@@ -1,0 +1,14 @@
+{
+  "name": "Zodiac-Sign-API",
+  "version": "1.0.0",
+  "main": "app.js",
+  "repository": "https://github.com/yousef-laban/Zodiac-Sign-API.git",
+  "author": "Yousef-laban <yousef.labn@fgmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "prompt": "^1.1.0",
+    "prompt-sync": "^4.2.0",
+    "unirest": "^0.6.0"
+  }
+}
